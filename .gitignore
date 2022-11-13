@@ -3,7 +3,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
+.vs/
 =======
 index2.html
 >>>>>>> 3fb0b80a2c3da04d0ef1cf74a0f08f7960f281d3
